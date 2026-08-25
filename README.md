@@ -38,8 +38,8 @@
 37.-
 38.-
 39.- Sebastian Pereira
-40.-
-41.-
+40.- Felipe Gutierrez
+41.- 
 42.-
 43.-
 44.- Camilo Mori
