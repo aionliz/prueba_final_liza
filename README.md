@@ -39,8 +39,8 @@
 38.-
 39.- Sebastian Pereira
 40.- Felipe Gutierrez
-41.- 
+41.-  
 42.-
-43.-
+43.- Cristian Villalobos
 44.- Camilo Mori
 45.- Profesora Liza Molina
