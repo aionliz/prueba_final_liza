@@ -1,10 +1,11 @@
+/* Cuerpo de los html */
 body{   
     background-color: #161050;
     color: #fff;
     font-family: 'Arial', sans-serif;
     text-decoration: none;
 }
-/* Cuerpo de los html */
+/* Cajas */
 div{
     background-color: #140e49;
     color: #fff;
@@ -14,22 +15,23 @@ div{
     font-family: 'Arial', sans-serif;
     align-items: center;
     text-decoration: none;
-
 }
+
+/* Titulos */
 h4{
     color: #FBE28A;
     text-align: start;
     text-decoration: none;
 }
-/* Subtitulos */
 
+/* Subtitulos */
 h5{
     color: #8b5dd4;
     text-align: start;
     text-decoration: none;
 }
-/* Anos (Mi historia) */
 
+/* Anos (Mi historia) */
 nav{
     background-color: #020d70;
     color: #fff;
@@ -39,6 +41,7 @@ nav{
     justify-content: space-evenly;
 }
 
+/* imagen */
 img{
     width: 200px;
     height: 200px;
