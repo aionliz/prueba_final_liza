@@ -6,7 +6,7 @@
 5.-
 6.-
 7.-
-8.-
+8.- Cristian Villalobos
 9.-
 10.-
 11.- Rodrigo Rojas
@@ -41,6 +41,6 @@
 40.- Felipe Gutierrez
 41.-  
 42.-
-43.- Cristian Villalobos
+43.- 
 44.- Camilo Mori
 45.- Profesora Liza Molina
